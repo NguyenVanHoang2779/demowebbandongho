@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slide .thanhmenu{
+    display: flex;
+}
+.slide .thanhmenu h1{
+    margin: 10px 40px;
+}
+.slide .thanhmenu .menu{
+    margin: 19px 151px;
+}
+.slide .thanhmenu .menu a{
+    text-decoration: none;
+    margin-right: 17px;
+}
+.slide .thanhmenu .icon i{
+    padding-right: 30px;
+}
+.slide{
+   background-image: url(http://mauweb.monamedia.net/dongho/wp-content/uploads/2018/03/slide1-768x360.jpg);
+   height: 710px;
+   background-repeat: no-repeat ;
+   background-size:cover ;
+}
+.slide *{
+    color: white;
+}
+h1{
+    MARGIN: 31px 627px;
+}
+hr{
+    border: 2px solid black;
+    width: 3%;
+    margin-left: 47%;
+}
+.danhsachsp .sanpham{
+    width: 300px;
+    margin-left: 53px;
+}
+.danhsachsp .sanpham img:hover{
+    opacity: 0.8;
+    border: 1px double bisque;
+}
+.danhsachsp .sanpham p.dong1 {
+    padding-left: 100px;
+}
+.danhsachsp .sanpham p.dong2 {
+    padding-left: 50px;
+}
+.danhsachsp .sanpham p.dong3 {
+    padding-left: 9px;
+}
+.danhsachsp .sanpham p.dong4 {
+    padding-left: 102px
+}
+.danhsachsp{
+    display: flex;
+    margin-top: 40px;
+}
+.slidedhn .quangcao i{
+    font-size: 36px;
+}
+.slidedhn .quangcao{
+    display: flex;
+    margin-right: 81px;
+    padding: 60px 75px;
+}
+.slidedhn .quangcao div{
+    margin-left: 20px;
+}
+.slidedhn{
+    margin: 23px 0px;
+    background: url(https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg);
+    height: 157px;
+    color: white;
+    display: flex;
+    width: 100%;
+
+}
